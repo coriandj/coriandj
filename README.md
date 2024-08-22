@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
-**coriandj/coriandj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlscHJja2dndm82ZmQ0ZHd3bmx1bXplOHM2aG16Z2MwazF4aTQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbYxDs20DECQw/giphy.gif" width="100"/></div>
+
+**coriandj/coriandj** is a ✨ _special_ ✨ repository because its `Genius`  appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+<div id="header" align=<"center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k4eHRrb2ZmaHpiMTcwNWV6MjdwdDB1Y3Q3cDh0YnR4ZGZzZTRjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif" width="100"/></div>
